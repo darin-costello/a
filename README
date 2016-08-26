@@ -1,0 +1,2 @@
+This displays a gui used in conjunction with Kris_alder_algo. It will display the locations received from /april_tag_pos. The blue circles are the robots the black squares are obstacles. By clicking on a robot the robot is put into leader mode. Subsequence clicks not on the robot will tell the leader to move to that location.
+By clicking on the same robot again it will switch back to surround mode. Clicking on a different robot will make the second robot the leader the old leader then switches to follow mode.
